@@ -9,7 +9,7 @@ function curtir() {
   document.getElementById("likeCount").innerText = likeCount;
  }else{
    likeCount--;
-   curtido = true; 
+   curtido = false; 
   document.getElementById("likeCount").innerText = likeCount;
  }
   
