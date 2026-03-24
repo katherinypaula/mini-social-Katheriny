@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: #000;
+  background-color: #030002;
   color: #fff;
 }
 
@@ -13,7 +13,7 @@ header {
 
 .logo {
   font-family: 'Pacifico', cursive;
-  color: #d4af37;
+  color: #e291c7;
   font-size: 40px;
 }
 
@@ -23,7 +23,7 @@ header {
 }
 
 .post {
-  background-color: #0f1f16;
+  background-color: #f1abe7;
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 0 10px #0f1f16;
@@ -49,7 +49,7 @@ header {
 
 .name {
   font-weight: bold;
-  color: #d4af37;
+  color: #131210;
 }
 
 .username {
